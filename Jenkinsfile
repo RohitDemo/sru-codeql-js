@@ -8,5 +8,11 @@ chmod +x codeql-runner-linux'''
       }
     }
 
+    stage('run ls') {
+      steps {
+        sh 'ls -lah'
+      }
+    }
+
   }
 }
