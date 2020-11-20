@@ -1,4 +1,4 @@
-# :shark: Sharks R Us :registered:
+# :shark: Sharks R Us :registered: 1
 
 The website was commissioned by the International Society for Shark Awesomeness :wave:
 
