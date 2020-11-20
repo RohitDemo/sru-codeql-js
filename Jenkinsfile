@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('CodeQL') {
       environment {
-          GITHUB_CREDS = credentials('pat-that-may-work')
+        GITHUB_CREDS = credentials('pat-that-may-work')
       }
       steps {
         sh '''ls -lah
